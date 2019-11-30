@@ -28,3 +28,6 @@ class Baraja(object):
 mi_baraja = Baraja()
 mi_baraja.barajear()
 mi_baraja.repartir()
+
+#Esto para probar los cambios de git
+#CAMBIOS
